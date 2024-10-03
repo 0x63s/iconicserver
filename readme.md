@@ -1,4 +1,4 @@
-[# IconicServer Plugin
+# IconicServer Plugin
 
 **IconicServer** is a Minecraft plugin that allows server administrators to dynamically manage server icons. Enhance your server's appearance by rotating icons, setting date-specific icons, and customizing icon selection modes.
 
