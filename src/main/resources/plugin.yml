@@ -1,0 +1,39 @@
+name: IconicServer
+main: ch.stefo.mcplugins.IconicServer
+version: 1.5
+api-version: 1.13
+commands:
+  icon:
+    description: Commands to control the IconicServer plugin
+    usage: /icon <refresh|download|set|list|process|setinterval|setmode|adddateicon|removedateicon|rename>
+permissions:
+  icon.refresh:
+    description: Allows player to refresh the icon list
+    default: op
+  icon.download:
+    description: Allows player to download new icons
+    default: op
+  icon.set:
+    description: Allows player to set the default icon
+    default: op
+  icon.list:
+    description: Allows player to list available icons
+    default: op
+  icon.process:
+    description: Allows player to process input icons
+    default: op
+  icon.setinterval:
+    description: Allows player to set the icon rotation interval
+    default: op
+  icon.setmode:
+    description: Allows player to set the icon selection mode
+    default: op
+  icon.adddateicon:
+    description: Allows player to add a date-specific icon
+    default: op
+  icon.removedateicon:
+    description: Allows player to remove a date-specific icon
+    default: op
+  icon.rename:
+    description: Allows player to rename icons
+    default: op

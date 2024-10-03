@@ -1,0 +1,8 @@
+icon-selection-mode: cycle
+icon-rotation-interval: 300
+player-icons:
+# Example:
+# playername: iconfile.png
+date-specific-icons:
+# Example:
+# 12-25: christmas_icon.png
